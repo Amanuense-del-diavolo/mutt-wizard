@@ -33,6 +33,7 @@ birdlover.com,imap.mail.com,993,smtp.mail.com,587
 bjoernguthphotography.de,wp300.webpack.hosteurope.de,993,wp300.webpack.hosteurope.de,587
 brew-meister.com,imap.mail.com,993,smtp.mail.com,587
 bruttocarattere.org,mail.autistici.org,993,smtp.autistici.org,465
+campus.unimib.it,imap.gmail.com,993,smtp.gmail.com,465
 canaglie.net,mail.autistici.org,993,smtp.autistici.org,465
 canaglie.org,mail.autistici.org,993,smtp.autistici.org,465
 carleton.ca,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
